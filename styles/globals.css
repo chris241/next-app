@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+.react-cookie-law-dialog{
+  margin: 41px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
